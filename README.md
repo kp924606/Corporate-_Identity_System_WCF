@@ -24,4 +24,5 @@ Corporate_Identity_System_WCF
 ===============
 <img src="視覺形象手冊(舞茶風)封面.jpg" width="531" height="366" alt="Black" />
 
-This is me and my friend homework, we are maked together.
+This is me and my friend homework, we are maked together. Although currently only a CIS model. 
+
