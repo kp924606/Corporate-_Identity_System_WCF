@@ -23,7 +23,7 @@ Corporate_Identity_System_WCF
 
 ##Front cover
 ===============
-<img src="視覺形象手冊(舞茶風)封面.jpg" width="531" height="366" alt="Black" />
+<img src="視覺形象手冊(舞茶風)封面.jpg" width="796.5" height="549" alt="Black" />
 
 This is me and my friend homework, we are maked together. Although currently only a CIS model. 
 
