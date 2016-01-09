@@ -7,6 +7,9 @@ Corporate_Identity_System_WCF
 ##Peripheral products
 - 1.We created web page for corporate. http://goo.gl/JSO6OI .The web page can support any device any size.(Use Bootstrap), so if you are interested, you can scan to QRCode.
 
+-<img src="視覺形象手冊(舞茶風網頁)QRCode.jpg" width="100.0" height="100" alt="Black" /> 
+
+
 ###Process Steps：
 
 - 1.Select a corporate.
