@@ -5,10 +5,7 @@ Corporate_Identity_System_WCF
 - 1.May be you can look image or download pdf. Because it most clearly the easiest to understand
 
 ##Peripheral products
-- 1.We created web page for corporate. http://goo.gl/JSO6OI
-
-The web page can support any device any size.(Use Bootstrap)
-
+- 1.We created web page for corporate. http://goo.gl/JSO6OI .The web page can support any device any size.(Use Bootstrap), so if you are interested, you can scan to QRCode.
 
 ###Process Steps：
 
